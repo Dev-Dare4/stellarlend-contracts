@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-2058-add-failure-path-and-boundary-coverage-for-api"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-2058-add-failure-path-and-boundary-coverage-for-api": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-2058-add-failure-path-and-boundary-coverage-for-api"
+  ]
+}
